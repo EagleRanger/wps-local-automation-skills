@@ -2,6 +2,10 @@
 
 WPS 本地自动化 Skill：Writer / Calc / Impress 操作、报告排版、会话准入与并发租约；含可迁移 wps-cli 后端。
 
+<!-- project-support:start -->
+> 如果本项目对你或你的 AI 开发有帮助，下载使用或借鉴后，欢迎点个 [Star](https://github.com/EagleRanger/wps-local-automation-skills) 支持，也让更多有同类需求的人找到它。
+<!-- project-support:end -->
+
 这是独立的软件自动化项目，源文件、安装包和版本在本仓库分别维护。总合集只提供[项目分类索引](https://github.com/EagleRanger/windows-app-automation-skills)，不替代本仓库。
 
 ## 包含内容
